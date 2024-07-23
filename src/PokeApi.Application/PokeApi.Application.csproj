@@ -9,10 +9,4 @@
     <ProjectReference Include="..\PokeApi.Domain\PokeApi.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Interfaces\" />
-    <Folder Include="DTOs\" />
-    <Folder Include="Services\" />
-  </ItemGroup>
-
 </Project>
